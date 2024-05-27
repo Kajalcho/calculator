@@ -33,9 +33,7 @@ A simple command-line calculator built in Python.
 
 ## 🚀 Usage
 
-To use the calculator, run the `calculator.py` script:
-```bash
-python calculator.py
+
 Follow the on-screen prompts to enter your calculations.
 
 🔍 Examples
